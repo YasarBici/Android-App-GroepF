@@ -1,0 +1,8 @@
+Wat heb ik gedaan?
+Onderwerp van de app gekozen en een scrumboard gemaakt in Trello.
+
+Wat ga ik doen?
+Een public github repo gemaakt en die geshared met mijn teamgenoten en we zijn begonnen met het bijhouden van onze taken.
+
+Waar ben ik tegenaan gelopen?
+Ik vroeg mij af van waar ik de GitHub Repo moest editten, dus heb ik uiteindelijk besloten om het via GIT te maken en dan te pushen naar de remote repo.
