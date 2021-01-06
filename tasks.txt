@@ -1,7 +1,20 @@
 Trello: https://trello.com/b/iBvJHsRQ/android-opdracht
 
-Week 1
 Yasar:
+User interface maken en het connecten met de code
+Vragen en antwoorden maken
+Startscherm waar je je naam kan meegeven
+UI en code van het vragen model maken
+Trello bord maken/managen
+
 Mohammed:
+Vragen en antwoorden maken
+resultaatscherm waar je je eindscore en je meegegeven naam kan zien
+
 Mike:
-Janus:
+resultaatscherm waar je je eindscore en je meegegeven naam kan zien
+
+
+------------------------------------------------------------------------------------------------
+Idea: Categorieën maken waar je uit kan kiezen, onClick brengen ze je naar verschillende vragen //WIP
+------------------------------------------------------------------------------------------------
